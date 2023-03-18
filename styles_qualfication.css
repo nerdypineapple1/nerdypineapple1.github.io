@@ -1,0 +1,116 @@
+body {background: rgb(129,34,195);
+background: linear-gradient(212deg, rgba(129,34,195,1) 19%, rgba(110,204,78,1) 61%, rgba(128,253,45,1) 98%);;
+  }
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Primary Font", "Backup Font",Courier, monospace ;
+  text-align: center;
+  }
+
+body {
+  color: black;
+  }
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */ 
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: rgba(110,204,78,1);
+}
+table {
+  width: 100%;
+}
+td {
+  text-align: center;
+}
+table { 
+  border-spacing: 1; 
+  border-collapse: collapse; 
+  background: black;
+  border-radius:6px;
+  overflow:hidden;
+  max-width:800px; 
+  width:100%;
+  margin:0 auto;
+  position:relative;
+
+  position:relative }
+  
+  td,th           { padding-left:8px}
+  
+
+  tbody tr        { height:48px; border-bottom:1px solid rgba(85,164,84,1)  
+  }
+
+  table {
+color: rgba(135,136,200,1);
+  }
+
+header{
+  overflow: hidden;
+  background-color: radial-gradient(circle, rgba(85,164,84,1) 0%, rgba(135,136,200,1) 100%);
+  padding: 20px 10px;
+}
+header{
+  font-family: Arial, Helvetica, sans-serif;
+}
+header{
+  box-sizing: border-box;
+}
+header{
+  text-align: center;
+}
+
+
+
+a:link {
+  background-color:transparent;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  ;
+ }
+ navlinks{
+  display:inline-flex
+  ;
+}
+ul {
+display: inline-flex;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0 0 100px;
+  /* bottom = footer height */
+  padding: 25px;
+}
+
+footer {
+  background-color: rgba(129,34,195,1);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 30px;
+  width: 100%;
+  overflow: hidden;
+}
