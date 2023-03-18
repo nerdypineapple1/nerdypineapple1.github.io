@@ -119,3 +119,7 @@ footer {
     width: 100%;
     overflow: hidden;
 }
+
+#cta {
+  background-color: rgba(110,204,78,1);
+}
