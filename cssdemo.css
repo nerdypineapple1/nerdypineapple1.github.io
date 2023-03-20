@@ -67,3 +67,46 @@ footer {
     width: 100%;
     overflow: hidden;
 }
+
+.playbuttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.savage:hover,
+.savage img:hover,
+.savage ul li a img:hover,
+.savage ul li img:hover {
+    position: relative;
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+    -webkit-transition: 100ms;
+    transition: 100ms;
+transition: 100ms;
+}
+
+.travs:hover,
+.travs img:hover,
+.travs ul li a img:hover,
+.travs ul li img:hover {
+    position: relative;
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+    -webkit-transition: 100ms;
+    transition: 100ms;
+transition: 100ms;
+}
+
+.drake:hover,
+.drake img:hover,
+.drake ul li a img:hover,
+.drake ul li img:hover {
+    position: relative;
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+    -webkit-transition: 100ms;
+    transition: 100ms;
+transition: 100ms;
+}
